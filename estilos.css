@@ -21,6 +21,13 @@ body{
     background: radial-gradient(circle at center, rgba(0, 0, 0, 0.65), transparent);
 }
 
+.m4a1-s {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    background: radial-gradient(circle at center, rgba(0, 0, 0, 0.65), transparent);
+}
+
 header{
     width: 90%;
     height: 8em;
