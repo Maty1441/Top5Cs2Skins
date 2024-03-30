@@ -45,6 +45,20 @@ body{
     background: radial-gradient(circle at center, rgba(0, 0, 0, 0.4), transparent);
 }
 
+.revolver {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    background: radial-gradient(circle at center, rgba(0, 0, 0, 0.4), transparent);
+}
+
+.galil {
+    text-align: center;
+    margin: auto;
+    width: 100%;
+    background: radial-gradient(circle at center, rgba(0, 0, 0, 0.4), transparent);
+}
+
 header{
     width: 90%;
     height: 8em;
